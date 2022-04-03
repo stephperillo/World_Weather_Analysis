@@ -35,14 +35,16 @@ This is an example of a map with a desired temperature range of 75 to 90 degrees
 
 I used Google Directions API to create a potential itinerary for 4 cities in Brazil that met the desired temperature conditions previously set. I also created a marker layer map showing pop-up markers for each of the cities that displays the driving route for the itinerary. 
 
-![WeatherPy_travel_map_markers.png](https://github.com/stephperillo/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map_markers.png)
-
 The cities on this itinerary are:
 1. Touros
 2. Natal
 3. Cabedelo
 4. Olinda
 
-Each city markers pops up with an information box containing the name of the closest hotel, the city and country name, and the current weather description.
+![Brazil_itinerary.png](https://github.com/stephperillo/World_Weather_Analysis/blob/main/Vacation_Itinerary/Brazil_itinerary.png)
 
-This can be used to filter and choose a number possible vacation destinations based on weather conditions.
+Each city marker pops up with an information box containing the name of the closest hotel, the city and country name, and the current weather description. The markers can be opened individually to view each information box and one can zoom in or out of the map.
+
+![WeatherPy_travel_map_markers.png](https://github.com/stephperillo/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map_markers.png)
+
+This analysis can be used to filter and choose a number possible vacation destinations based on weather conditions.
