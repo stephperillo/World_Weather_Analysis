@@ -2,7 +2,7 @@
 
 ## Overview
 
-I used Jupyter Notebook in and performed API calls to OpenWeatherMap and Google Maps. 
+This analysis uses weather date from OpenWeatherMap's API and Google Maps's API to create maps to visualize a travel itinerary. 
 The purpose of this repository is to hold three deliverables:
 - Deliverable 1: Retrieve Weather Data
 - Deliverable 2: Create a Customer Travel Destinations Map
